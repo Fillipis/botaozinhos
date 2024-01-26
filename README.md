@@ -1,4 +1,4 @@
-# botaozinhos
+# botõesinhos
 Às vezes, um dev back-end precisa de uns botõezinhos prontos! 
 
 ## resultado de botões (sem borda) :v::smirk: 
